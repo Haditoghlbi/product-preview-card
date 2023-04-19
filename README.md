@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/Haditoghlbi/product-preview-card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://haditoghlbi.github.io/product-preview-card/)
 
 
 ### Built with
